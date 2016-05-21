@@ -1,5 +1,87 @@
 [
   {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-05-21T14:22:32 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-05-21T14:22:32", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[29], body[0] op[0x5c]", 
+        "data": [
+          {
+            "amount": 3.0, 
+            "age": 164
+          }, 
+          {
+            "amount": 1.1, 
+            "age": 224
+          }, 
+          {
+            "amount": 2.9, 
+            "age": 234
+          }, 
+          {
+            "amount": 0.25, 
+            "age": 274
+          }, 
+          {
+            "amount": 0.5, 
+            "age": 284
+          }, 
+          {
+            "amount": 0.5, 
+            "age": 294
+          }, 
+          {
+            "amount": 1.6, 
+            "age": 304
+          }, 
+          {
+            "amount": 0.05, 
+            "age": 314
+          }, 
+          {
+            "amount": 2.2, 
+            "age": 344
+          }
+        ], 
+        "_body": "", 
+        "_head": "5c1d78a4c02ce0c074eac00a12d0141cd01426d04030d1023ad05858d0", 
+        "_date": ""
+      }
+    ], 
+    "programmed": 5.7, 
+    "_head": "01393900", 
+    "amount": 5.7, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "60564e1510"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 0, 
+    "bg_target_high": 100, 
+    "correction_estimate": 0.0, 
+    "unknown_byte[10]": 0, 
+    "_description": "BolusWizard 2016-05-21T14:22:32 head[2], body[13] op[0x5b]", 
+    "timestamp": "2016-05-21T14:22:32", 
+    "_body": "4b500d1f640039000000003964", 
+    "carb_input": 75, 
+    "_head": "5b00", 
+    "unabsorbed_insulin_total": 0.0, 
+    "_byte[5]": 0, 
+    "unabsorbed_insulin_count": "??", 
+    "_byte[7]": 0, 
+    "_date": "60560e1510", 
+    "bolus_estimate": 5.7, 
+    "unknown_byte[8]": 0, 
+    "carb_ratio": 13, 
+    "food_estimate": 5.7, 
+    "bg_target_low": 100, 
+    "sensitivity": 31
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-05-21T14:14:13 head[2], body[0] op[0x16]", 
