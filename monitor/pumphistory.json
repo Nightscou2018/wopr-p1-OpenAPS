@@ -1,5 +1,62 @@
 [
   {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-05-21T01:26:47 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-21T01:26:47", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "6f5a015510"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-21T01:26:47 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-21T01:26:47", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "6f5a015510"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-05-21T01:26:44 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-21T01:26:44", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "6c5a015510"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-21T01:26:44 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-21T01:26:44", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "6c5a015510"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-05-21T01:26:43 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-05-21T01:26:43", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "6b5a015510"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-05-21T01:26:43 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-05-21T01:26:43", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "6b5a015510"
+  }, 
+  {
     "_type": "old6c", 
     "_description": "old6c 2016-05-21T00:00:00 head[1], body[35] op[0x6c]", 
     "timestamp": "2016-05-21T00:00:00", 
@@ -1529,79 +1586,5 @@
     "_head": "3322", 
     "rate": 0.85, 
     "_date": "5c5e015410"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-05-20T00:52:32 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-05-20T00:52:32", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "6074005410"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-05-20T00:52:32 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-05-20T00:52:32", 
-    "_body": "00", 
-    "_head": "3300", 
-    "rate": 0.0, 
-    "_date": "6074005410"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-05-20T00:52:29 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-05-20T00:52:29", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "5d74005410"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-05-20T00:52:29 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-05-20T00:52:29", 
-    "_body": "00", 
-    "_head": "3300", 
-    "rate": 0.0, 
-    "_date": "5d74005410"
-  }, 
-  {
-    "_type": "TempBasalDuration", 
-    "duration (min)": 30, 
-    "_description": "TempBasalDuration 2016-05-20T00:52:28 head[2], body[0] op[0x16]", 
-    "timestamp": "2016-05-20T00:52:28", 
-    "_body": "", 
-    "_head": "1601", 
-    "_date": "5c74005410"
-  }, 
-  {
-    "_type": "TempBasal", 
-    "temp": "absolute", 
-    "_description": "TempBasal 2016-05-20T00:52:28 head[2], body[1] op[0x33]", 
-    "timestamp": "2016-05-20T00:52:28", 
-    "_body": "00", 
-    "_head": "3300", 
-    "rate": 0.0, 
-    "_date": "5c74005410"
-  }, 
-  {
-    "_type": "old6c", 
-    "_description": "old6c 2016-05-20T00:00:00 head[1], body[35] op[0x6c]", 
-    "timestamp": "2016-05-20T00:00:00", 
-    "_body": "0500bb9bdc0700000c9803fc20089c4401a4089c44063048026c1c0000000d06040300", 
-    "_head": "6c", 
-    "_date": "5390"
-  }, 
-  {
-    "_type": "ResultDailyTotal", 
-    "_description": "ResultDailyTotal 2016-05-20T00:00:00 head[5], body[0] op[0x07]", 
-    "timestamp": "2016-05-20T00:00:00", 
-    "_body": "", 
-    "valid_date": "2016-05-19", 
-    "_head": "0700000c98", 
-    "_date": "5390"
   }
 ]
