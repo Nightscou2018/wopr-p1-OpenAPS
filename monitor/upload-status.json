@@ -3,26 +3,26 @@
   "pump": {
     "battery": {
       "status": "normal", 
-      "voltage": 1.41
+      "voltage": 1.4
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-05-22T14:55:10.000Z", 
+      "timestamp": "2016-05-22T15:03:11.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
     "reservoir": 132.6, 
-    "clock": "2016-05-22T10:55:46-04:00"
+    "clock": "2016-05-22T11:03:46-04:00"
   }, 
   "openaps": {
     "iob": {
-      "netbasalinsulin": 0.15, 
-      "timestamp": "2016-05-22T14:55:30.000Z", 
-      "activity": 0.0533, 
-      "basaliob": -0.109, 
-      "hightempinsulin": 0.7, 
-      "bolussnooze": 7.624, 
-      "iob": 10.138
+      "netbasalinsulin": 0.05, 
+      "timestamp": "2016-05-22T15:03:31.000Z", 
+      "activity": 0.0653, 
+      "basaliob": -0.102, 
+      "hightempinsulin": 0.6, 
+      "bolussnooze": 5.723, 
+      "iob": 9.633
     }, 
     "enacted": {
       "requested": {
