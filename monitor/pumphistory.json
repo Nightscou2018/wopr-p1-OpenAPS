@@ -1,5 +1,22 @@
 [
   {
+    "_type": "old6c", 
+    "_description": "old6c 2016-05-22T00:00:00 head[1], body[35] op[0x6c]", 
+    "timestamp": "2016-05-22T00:00:00", 
+    "_body": "0510d1a90c04000009fa02c21c073848016d07384805644b01d4190000000b07040000", 
+    "_head": "6c", 
+    "_date": "5590"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-05-22T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-05-22T00:00:00", 
+    "_body": "", 
+    "valid_date": "2016-05-21", 
+    "_head": "07000009fa", 
+    "_date": "5590"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-05-21T23:46:49 head[2], body[0] op[0x16]", 
