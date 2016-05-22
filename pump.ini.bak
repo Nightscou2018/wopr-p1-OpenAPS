@@ -1,0 +1,7 @@
+[device "pump"]
+serial = 013597
+port = /dev/mmeowlink
+radio_type = subg_rfspy
+model = 715
+expires = 2016-04-03T21:05:13.318473
+
